@@ -4,6 +4,6 @@
 
 [PNG](theta.png), [SVG](theta.svg)
 
-![THETA Icons](theta-icons.png)
+[![THETA Icons](theta-icons.png)](theta-icons)
 
-[PNG](theta-icons.png), [SVG](theta-icons.svg)
+[PNG](theta-icons), [SVG](theta-icons.svg)
